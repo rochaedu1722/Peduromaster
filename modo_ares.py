@@ -1,0 +1,1 @@
+# Código do modo_ares.py
